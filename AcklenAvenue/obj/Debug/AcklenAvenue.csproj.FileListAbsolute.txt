@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\AcklenAvenue\AcklenAvenueProject\AcklenAvenue\AcklenAvenue\bin\AcklenAvenue.dll
+C:\Users\Administrador\Desktop\AcklenAvenue\AcklenAvenueProject\AcklenAvenue\AcklenAvenue\bin\AcklenAvenue.pdb
+C:\Users\Administrador\Desktop\AcklenAvenue\AcklenAvenueProject\AcklenAvenue\AcklenAvenue\obj\Debug\AcklenAvenue.dll
+C:\Users\Administrador\Desktop\AcklenAvenue\AcklenAvenueProject\AcklenAvenue\AcklenAvenue\obj\Debug\AcklenAvenue.pdb
+C:\Users\Administrador\Desktop\AcklenAvenue\AcklenAvenueProject\AcklenAvenue\AcklenAvenue\obj\Debug\AcklenAvenue.csprojResolveAssemblyReference.cache

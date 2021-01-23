@@ -1,0 +1,32 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ContenedorPrincipal {
+  border: 3px solid #f1f1f1;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:auto;
+  margin-top: 5%;
+  width: 90%;
+}
+#Buscar{
+    width:20%;
+}
+#btnAgregar{
+  width:100px; 
+  margin-left: 10px;   
+}
+#MainContent_lblAgregar{
+  margin-left: 10px;  
+}
+#btnRegresar{
+  width:100px;
+}
+#btnGuardar{
+  width:100px;
+}
+.divGrid{
+   width:70%;
+   margin-left: 10px;
+}
